@@ -3,7 +3,7 @@ description: Attorney, open source developer, product manager
 
 lang: en-US
 branch: master
-
+###
 # Pages to include in header navigation
 nav_pages:
   - index.html
